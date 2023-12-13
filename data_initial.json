@@ -1,0 +1,117 @@
+{
+    "workouts": [
+      {
+        "id": 1,
+        "date": "2023-03-21",
+        "exercises": [
+          {
+            "type": "leg",
+            "place": "gym"
+          },
+          {
+            "type": "arm",
+            "place": "home"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "date": "2023-03-22",
+        "exercises": [
+          {
+            "type": "cardio",
+            "place": "office"
+          },
+          {
+            "type": "chest",
+            "place": "gym"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "date": "2023-03-23",
+        "exercises": [
+          {
+            "type": "back",
+            "place": "home"
+          },
+          {
+            "type": "leg",
+            "place": "gym"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "date": "2023-03-24",
+        "exercises": [
+          {
+            "type": "arm",
+            "place": "office"
+          },
+          {
+            "type": "chest",
+            "place": "gym"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "date": "2023-03-25",
+        "exercises": [
+          {
+            "type": "cardio",
+            "place": "home"
+          },
+          {
+            "type": "leg",
+            "place": "gym"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "date": "2023-03-26",
+        "exercises": [
+          {
+            "type": "back",
+            "place": "office"
+          },
+          {
+            "type": "chest",
+            "place": "gym"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "date": "2023-03-27",
+        "exercises": [
+          {
+            "type": "arm",
+            "place": "home"
+          },
+          {
+            "type": "leg",
+            "place": "gym"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "date": "2023-03-28",
+        "exercises": [
+          {
+            "type": "cardio",
+            "place": "gym"
+          },
+          {
+            "type": "chest",
+            "place": "gym"
+          }
+        ]
+      }
+    ]
+  }
+  
