@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-6v9hHwsDAMwdHJXVLnXeKraOs2v7w",
+    "object": "chat.completion",
+    "created": 1679079991,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 172,
+        "total_tokens": 199
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\n\nSure, here is a leg day workout suggestion:\n\nWarm-up:\n-5-10 minutes of cardio of your choice (treadmill, elliptical, stationary bike)\n\nMain workout:\n1. Squats - 3 sets of 8-12 reps \n2. Romanian Deadlifts - 3 sets of 10-12 reps\n3. Leg Press - 3 sets of 15-20 reps\n4. Walking Lunges - 3 sets of 8-12 reps (each leg)\n5. Calf Raises - 3 sets of 15-20 reps\n\nCool-down:\n-5-10 minutes of stretching (focusing on legs and lower back)\n\n*Note: Be sure to choose weights that challenge you, but that also allow you to maintain proper form. Rest for 1-2 minutes between each set."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
