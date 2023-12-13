@@ -29,6 +29,11 @@ Our magical realm is still evolving, and there are many quests to enhance the ex
 - 🔄 **Fine-Tune Updates:** Instead of a magical sweep, update the training details step by step for a smoother user experience.
 - 🌐 **Beyond the JSON Realm:** Replace the faux JSON server with a real backend, unlocking the potential for diverse enhancements and features.
 
+## Visuals 
+
+![image](https://github.com/sndr157/openai/assets/127830026/0ef304a9-d0c0-4c17-a0c3-97ffa0ed3b34)
+
+
 ## 🌟 Have Fun!
 
 This may be a tiny proof-of-concept, but the magic within is boundless! Consider using frameworks like React or Next.js to transform this snippet into a full-fledged, enchanting fitness app. Happy coding, and may your workouts be as spellbinding as your code! 🧙‍♂️✨
